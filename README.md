@@ -1,15 +1,21 @@
 ## Goal
 
-Create a good fundament in JavaScript and React
-JavaScript Topics:
+Get familiar with main concepts in
 
--
+- React
 
-React Topics:
+  - JSX, Rendering Elements, Components and Props, State and Lifecycle, Handling Events, Conditional Rendering, Lists and Keys, Forms, Hooks, Unit Testing
 
--
+- JavaScript
+  - Execution context, Execution context, Scope Chain, Hoisting, Closures, Coercion, Dynamic Typing, undefined, First Class Functions, Prototypical Inheritance, import / export (single default and many named exports), Arrows (same lexical this), Classes, Template Strings, Destructuring, Default + Rest + Spread, let + const
 
-This project can be extended individually. For example, it can be a starting point for a personal website.
+Plan for the Projects:
+
+- create Calculator using Class Components and test it’s functionality
+- refactor Calculator using Hooks
+- start with Todo App
+
+Resources: [33 Concepts](https://github.com/leonardomso/33-js-concepts#readme) in JavaScript, React’s official [documentation](https://reactjs.org/docs/getting-started.html), free React [course](https://scrimba.com/g/glearnreact) and free [The Beginner's Guide to React](https://egghead.io/courses/the-beginner-s-guide-to-react)
 
 ## Questions / Feedback
 
